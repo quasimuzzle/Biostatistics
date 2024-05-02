@@ -8,8 +8,22 @@
 
 Нелинейная минимизация метода наименьших квадратов и подбор кривых для Python:
  https://lmfit.github.io/lmfit-py/
-
  Установка pip install lmfit 
+
+#### lifelines 
+Installation: pip install lifelines
+or
+conda install -c conda-forge lifelines
+
+https://lifelines.readthedocs.io/en/latest/jupyter_notebooks/Piecewise%20Exponential%20Models%20and%20Creating%20Custom%20Models.html#The-Exponential-model
+
+Introduction to survival analysis
+https://lifelines.readthedocs.io/en/latest/Survival%20Analysis%20intro.html
+
+
+Условная функция дожития (conditional_after, lifelines)
+ https://lifelines.readthedocs.io/en/latest/Survival%20Regression.html
+
 
  2) lab2.ipynb
 
