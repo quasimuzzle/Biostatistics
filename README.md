@@ -20,6 +20,8 @@ https://lifelines.readthedocs.io/en/latest/jupyter_notebooks/Piecewise%20Exponen
 Introduction to survival analysis
 https://lifelines.readthedocs.io/en/latest/Survival%20Analysis%20intro.html
 
+https://kpfu.ru/portal/docs/F_1675497345/lekciya.9.pdf
+
 
 Условная функция дожития (conditional_after, lifelines)
  https://lifelines.readthedocs.io/en/latest/Survival%20Regression.html
